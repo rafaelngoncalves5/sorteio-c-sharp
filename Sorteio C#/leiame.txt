@@ -1,0 +1,1 @@
+Lê cada um dos elementos digitados em um vetor de tamanho definido pelo cliente e sorteia um dos elementos da lista;
